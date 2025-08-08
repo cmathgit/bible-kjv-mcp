@@ -47,9 +47,9 @@ Copy files from the original repository by aruljohn to the new one.
 5. Minimal pyproject.toml:
    ```toml
    [project]
-   name = "bible-kjv-1611-mcp"
+   name = "bible-kjv-mcp"
    version = "0.1.0"
-   description = "MCP server that serves KJV 1611 Bible JSON files verbatim."
+   description = "MCP server that serves KJV Bible JSON files verbatim."
    readme = "README.md"
    requires-python = ">=3.13"
    dependencies = ["mcp[cli]>=1.12.4"]
