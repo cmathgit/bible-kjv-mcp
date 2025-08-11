@@ -1,4 +1,5 @@
 # [Bible-kjv-mcp](https://github.com/cmathgit/bible-kjv-mcp)
+# Add block on Continue Dev: [Bible-KJV-MCP](https://hub.continue.dev/cmathcontinue-dev/bible-kjv-mcp)
 
 ## MCP Server: Local KJV JSON (FastMCP)
 
